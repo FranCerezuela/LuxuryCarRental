@@ -136,6 +136,18 @@ footer{
     "bahia cordoba"
     "ezeiza bariloche";
 }
+.h2:hover{
+    transform: scale (2);
+}
+.calendario{
+transition: all 2s;
+}
+.calendario:hover{
+    transform: scale (2);
+}
+.calendario{
+transition: all 2s;
+}
 .bahia{
     grid-area: bahia;
     color: azure;
